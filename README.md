@@ -12,6 +12,15 @@
 ![ROS](https://img.shields.io/badge/-ROS-000?&logo=ROS)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 
+###   Software and Tools
+
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
+![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-000?&logo=stack-overflow)
+
+
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1789)
 
